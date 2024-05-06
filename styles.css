@@ -1,0 +1,140 @@
+.unordered{
+    display:flex;
+    justify-content:center;
+    padding: top 50px;
+    color:white;
+    padding-top:50px;
+}
+.itineraryTable{
+    display:flex;
+    justify-content:center;
+    padding-top: 30px;
+    padding-bottom:50px;
+    color:white;
+}
+th,td {
+    padding:15px;
+}
+
+.waitlistForm {
+    display:flex;
+    justify-content:center;
+    padding:20px;
+    color:white;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+  }
+
+.sunspotCards{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    align-content:end;
+    flex-wrap:wrap;
+    border: 2px solid white;
+    margin: 55px;
+    height: 250px;
+    width:250px;
+
+}
+.sunspotCardsImg{
+    background-color:black;
+    display:flex;
+    flex-wrap:wrap;
+    height:250px;
+    width: 250px;
+    align-content:end;
+    text-align: center;
+    z-index:-1;
+}
+
+hr{
+    color: white;
+    /* width:75%;
+    margin: 175px; */
+}
+
+.spinningImage {
+   display:flex;
+   justify-content: center;
+   padding-top: 40px;
+  }
+
+.spinningImage img{
+    border-radius:50%;
+    display: block;
+    height: 400px;
+    width: 400px;
+    transition-duration:20s;
+}
+
+.spinningImage:hover img{
+    transform:rotate(1080deg);
+} 
+
+.expandingUniverse {
+    display:flex;
+    justify-content:center;
+    padding-top:40px;
+}
+
+.expandingUniverse img {
+    display:block;
+    height:400px;
+    width:400px;
+    transition-duration:7s;
+}
+
+.expandingUniverse:hover img{
+    width: 900px;
+    height:700px;
+}
+#card1{
+    color:#c21600;
+    /* flex-grow: 1; */
+}
+
+#card2{
+    color:white;
+    /* flex-grow:1; */
+}
+
+#card3{
+    color:#c21600
+    /* flex-grow:1; */
+}
+
+#card4{
+    color:white
+}
+
+#card5{
+    color:#fe8d00
+    /* flex-grow:2; */
+}
+
+#card6{
+    color:white;
+}
+
+
+
+.exploreTheUniverse {
+    overflow:hidden;
+}
+
+.slidingBackground {
+    background:url(https://tinyurl.com/outerSpaceExpansion) repeat-x;
+    height:560px;
+    width: 5076px;
+    animation: scroll 60s linear infinite;
+}
+
+/* @keyframes ::-webkit-slider-runnable-track */

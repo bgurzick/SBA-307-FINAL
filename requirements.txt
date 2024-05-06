@@ -1,0 +1,45 @@
+PROJECT 
+SBA-307 - 3 Page Website
+    
+    Requirements
+        HTML REQUIREMENTS
+            DONE - at least 3 PAGES
+            DONE - at least 10 DIFFERENT HTML TAGS
+            DONE - at least 1 TABLE
+            DONE - at least 2 FORMS
+            DONE - at least one DROPDOWN MENU
+            DONE - at least one TEXT
+            DONE - at least one IMAGE
+            DONE - at least one GIF
+        CSS REQUIREMENTS
+            DONE - at least 1 INLINE STYLE
+            DONE - at least 1 INTERNAL STYLE
+            DONE - EXTERNAL STYLE SHEET
+            DONE - at least 5 DIFFERENT CSS SELECTORS
+            DONE - COMPLEMENTARY COLORS
+            DONE - use FLEXBOX and/or BOOTSTRAP GRID
+            DONE - at least 2 ANIMATIONS
+        SUBMISSION REQUIREMENTS
+            submit via GitHub repo which contains only the SBA
+            include the link to your GitHub account in your README file
+        
+    
+    Condsiderations
+        Indicate how you considered UX in your design
+        How to be creative within given timeframe
+
+    
+    Concept
+
+
+    Reflection
+        What could you have done differently during the planning stages of your project to make the execution easier?
+
+
+        Were there any requirements that were diffiicult to implement? What would make them easier?
+
+
+        What would you add to or change about your website if given more time?
+
+
+        Notes of things to remember from this project
