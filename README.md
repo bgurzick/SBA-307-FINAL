@@ -6,7 +6,7 @@ I ensured that I met each requirement, as noted in the requirements.txt file inc
 
 In consideration for the user experience, I used complementary colors, contrast, large text, and object spacing to make the website easy to read, scan, and navigate. 
 
-Something I would have liked to included is a fixed header/navigation bar. I will definiteyl do this on my next project.
+Something I would have liked to included is a fixed header/navigation bar. I will definitely do this on my next project.
 
 I also had plans to make my "explore the universe" page an infinitely scrolling background. With more time, I would have loved to accomplish this feature.
 
