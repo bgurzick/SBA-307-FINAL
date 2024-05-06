@@ -15,5 +15,6 @@ I am most proud of my animations on the GALLERY page and the review boxes on the
 All in all, my biggest challenge is inexperience. My total programming hours are minimal, but I am having a lot of fun. It feels really good to be able to resolve a bug or logistical issue.
 
 -bgurzick (Brett)
+https://github.com/bgurzick
 
 P.S. - I am aware that the drop-down menu isn't working. I was able to find proposed JavaScript solutions online, but excluded this from the project because I didn't think I was allowed to use JavaScript for the HTML/CSS Skills Based Assessment.
